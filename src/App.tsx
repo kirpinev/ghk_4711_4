@@ -207,7 +207,7 @@ export const App = () => {
         <ButtonMobile
           block
           view="primary"
-          href="alfabank:///sdui_screen?screenName=InvestmentLongread&fromCurrent=true&endpoint=v1/invest-main-screen-view/investment-longread/50219%3flocation=AM%26campaignCode=GH"
+          href="alfabank:///sdui_screen?screenName=InvestmentLongread&fromCurrent=true&endpoint=v1/invest-main-screen-view/investment-longread/50371%3flocation=AM%26campaignCode=GH"
           onClick={submit}
         >
           Подключить
